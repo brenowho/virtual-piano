@@ -1,2 +1,2 @@
 # virtual-piano
-A musical keyboard virtual make with JS Vanilla
+A virtual musical keyboard creation with Vanilla JS
